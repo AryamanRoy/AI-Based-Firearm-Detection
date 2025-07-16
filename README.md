@@ -1,6 +1,7 @@
 
 
 # AI-Based-Firearm-Detection
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project aims to detect weapons in real-time through cameras and notify authorities instantly. It's a mini project demonstrating the use of deep learning for security purposes.
 
@@ -83,8 +84,3 @@ This project aims to detect weapons in real-time through cameras and notify auth
 ## Contributing
 
 Contributions are welcome! Please create an issue or submit a pull request for any improvements.
-
-## License
-
-This project is licensed under the MIT License.
-```
