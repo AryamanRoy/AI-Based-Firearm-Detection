@@ -82,3 +82,4 @@ This project aims to detect weapons in real-time through cameras and notify auth
 ## Contributing
 
 Contributions are welcome! Please create an issue or submit a pull request for any improvements.
+
