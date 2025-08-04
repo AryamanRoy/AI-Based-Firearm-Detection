@@ -15,7 +15,7 @@ This project aims to detect weapons in real-time through cameras and notify auth
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/jztchl/realtime-weapon-detection.git
+   git clone https://github.com/AryamanRoy/AI-Based-Firearm-Detection.git
    cd realtime-weapon-detection
    ```
 
@@ -82,4 +82,5 @@ This project aims to detect weapons in real-time through cameras and notify auth
 ## Contributing
 
 Contributions are welcome! Please create an issue or submit a pull request for any improvements.
+
 
